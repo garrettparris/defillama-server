@@ -4138,5 +4138,25 @@ const data6: Protocol[] = [
     audit_links: ["https://skynet.certik.com/projects/cross"],
     listedAt: 1779383367,
   },
+  {
+    id: "7906",
+    name: "Tenbin",
+    address: "ethereum:0x6a547b25534234bb79CE6961a23Db13DE154b6F4",
+    symbol: "tGLD",
+    url: "https://tenbinlabs.xyz",
+    description:
+      "Tenbin is an asset-tokenization protocol that brings liquid, yield-bearing real-world assets - precious metals, FX and commodities - on-chain for use in DeFi. Its first asset is Tenbin Gold (tGLD).",
+    chain: "Ethereum",
+    logo: `${baseIconsUrl}/tenbin.png`,
+    audits: "0",
+    gecko_id: "tenbin-gold",
+    cmcId: null,
+    category: "RWA",
+    chains: ["Ethereum"],
+    module: "tenbin/index.js",
+    twitter: "tenbinlabs",
+    github: ["tenbinlabs"],
+    listedAt: 1779384120,
+  },
 ];
 export default data6;
