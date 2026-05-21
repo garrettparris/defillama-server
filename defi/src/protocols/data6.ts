@@ -4141,11 +4141,11 @@ const data6: Protocol[] = [
   {
     id: "7906",
     name: "Tenbin",
-    address: "ethereum:0x6a547b25534234bb79CE6961a23Db13DE154b6F4",
-    symbol: "tGLD",
+    address: null,
+    symbol: "-",
     url: "https://tenbinlabs.xyz",
     description:
-      "Tenbin is an asset-tokenization protocol that brings liquid, yield-bearing real-world assets - precious metals, FX and commodities - on-chain for use in DeFi. Its first asset is Tenbin Gold (tGLD).",
+      "Tenbin is an asset-tokenization protocol for liquid, yield-bearing real-world assets, precious metals, FX and commodities.",
     chain: "Ethereum",
     logo: `${baseIconsUrl}/tenbin.png`,
     audits: "0",
